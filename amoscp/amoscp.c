@@ -1,6 +1,6 @@
 /*
 
-Experiment in exposing an AMOS filesystem within native DOS, Windows and *NIX.
+Experimental utility to copy files to/from an AMOS filesystem compatible with DOS, Windows and *NIX.
 
 to do:
 	* fix up ignore_badblk_sys for /dev/hd03 and others?
